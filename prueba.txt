@@ -1,1 +1,3 @@
-hola 
+Pasos 
+1.- Para poder ejecutar  los comandos de git tengo que estar dentro de la carpeta al ejecutar
+con cmd
